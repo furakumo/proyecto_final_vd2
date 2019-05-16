@@ -1,0 +1,1510 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Meshes/BaseMaterial.uasset" 4
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/n_door_v2.uasset" 5
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_door.uasset" 6
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/materials/m_plataform.uasset" 7
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Geometry/Meshes/CubeMaterial.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 9
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 10
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 11
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_RockMesh_M.uasset" 12
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_RockMesh_N.uasset" 13
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Rock.uasset" 14
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Box_Brush_StaticMesh.uasset" 15
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Box_Brush_StaticMesh_DM.uasset" 16
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/crate1_lid.uasset" 17
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/DoorMaterial.uasset" 18
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/M_UE4Man_Body.uasset" 19
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 20
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 21
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/untitled_PhysicsAsset.uasset" 22
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/untitled.uasset" 23
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Geometry/Meshes/1M_Cube.uasset" 24
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/blueprints/BridgeBP.uasset" 25
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Belica_Arms_Skeleton.uasset" 26
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_Idle.uasset" 27
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_JumpEnd.uasset" 28
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_JumpLoop.uasset" 29
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_JumpStart.uasset" 30
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_Run.uasset" 31
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 32
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Animation/BelicaArmsFirstPerson_AnimBP.uasset" 33
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 34
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 35
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 36
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 37
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_SmokeRibbon_01.uasset" 38
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_SmokeRibbon_01.uasset" 39
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Plasma_Detail_01.uasset" 40
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Tracer_A.uasset" 41
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_FrameClamp.uasset" 42
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_NoiseMask_01.uasset" 43
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Plasma_A_01.uasset" 44
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Plasma_B_01.uasset" 45
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_PlasmaMask_01.uasset" 46
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_01.uasset" 47
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_F_Dark.uasset" 48
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Meshes/St_Tracer_B.uasset" 49
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_AssaultRifle_Tracer_Dark.uasset" 50
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_RockSmall_01.uasset" 51
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_RockSmall_01.uasset" 52
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Smoke_8x8_B_01.uasset" 53
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Spherical_NormalMap_01.uasset" 54
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Smoke_8x8_B_01.uasset" 55
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_SparkImpacts_2x2_01.uasset" 56
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_SparksImpact_2x2_01.uasset" 57
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_G_Dark.uasset" 58
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Small_Dark.uasset" 59
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/BulletBP.uasset" 60
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_MacroVariation.uasset" 61
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 62
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 63
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Steel.uasset" 64
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Debris_Tileable_01.uasset" 65
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Debris_Tileable_01.uasset" 66
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Ember_01.uasset" 67
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Ember_Speed_01.uasset" 68
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_LightRay_01.uasset" 69
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_LightRay_01.uasset" 70
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Shockwave_NormalMap_01.uasset" 71
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Shockwave_Refraction_01.uasset" 72
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Explosion_8x8_Erode_01.uasset" 73
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Explosion_Density_A_01.uasset" 74
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Explosion_Density_A_Normals_01.uasset" 75
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Explosion_Heat_A_01.uasset" 76
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Explosion_8x8_A_01.uasset" 77
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_C_Light_Inst.uasset" 78
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_D_Light_Inst.uasset" 79
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_Explosion_Light.uasset" 80
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/Explosion_att.uasset" 81
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Explosion01.uasset" 82
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Explosion02.uasset" 83
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Explosion03.uasset" 84
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Explosion04.uasset" 85
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Explosion05.uasset" 86
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_Explosion_Cue.uasset" 87
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Basic_Wall.uasset" 88
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Sphere.uasset" 89
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/GranadeBP.uasset" 90
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 91
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/MetallicShading.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 94
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 96
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 98
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Lerp_ScratchGrime.uasset" 101
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 102
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakBaseColor.uasset" 103
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Emissive.uasset" 104
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.uasset" 105
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 106
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TenLayerBlend.uasset" 107
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 108
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_BaseColorTintAndContrast.uasset" 109
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MF_RoughnessAdjustment.uasset" 110
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_ScratchAndGrime.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 112
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_Standard.uasset" 113
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_BrightnessAdjust.uasset" 114
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_Character_MaterialLayerQuality.uasset" 115
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.uasset" 116
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01_N.uasset" 117
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise03.uasset" 118
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_DeathFade.uasset" 119
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/T_TestML_Mask.uasset" 120
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/ML__Blank.uasset" 121
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/ParameterCollections/OrionGlobalGameplayCollection.uasset" 122
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_HitFlash.uasset" 123
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.uasset" 124
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Blank_N.uasset" 125
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_blue_Metal.uasset" 126
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionRimlight.uasset" 127
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_CharacterEffects.uasset" 128
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 129
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/T_Black_Linear.uasset" 130
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_OrionCharacterAO.uasset" 131
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Rough_Metal_N.uasset" 132
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Primer_Black_Metal2.uasset" 133
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_Primer_Colored_Metal.uasset" 134
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/ML_FlatBlack.uasset" 135
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_N.uasset" 136
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_D.uasset" 137
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Painted/ML_Scifi_Glossy_Plastic.uasset" 138
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Blank_N.uasset" 139
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Belica_Eye_D.uasset" 140
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_Gem.uasset" 141
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_N.uasset" 142
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_D.uasset" 143
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/ML_RoughPlastic.uasset" 144
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_LowerBody_Decals.uasset" 145
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_BelicaScreen.uasset" 146
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Materials/MF_BelicaAnimatedScreen.uasset" 147
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK01.uasset" 148
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK02.uasset" 149
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK03.uasset" 150
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_N.uasset" 151
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_upperbody_skin00_RGB.uasset" 152
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Materials/M_Belica_ArmComputer.uasset" 153
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BlendAngleCorrectedNormals.uasset" 154
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MaterialLayerConstructors/MLC_SolidValues.uasset" 155
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/T_Belica_Plastic_04_N.uasset" 156
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialFunctions/MF_AOGrimeBump.uasset" 157
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Leather/T_ML_FineLeather01_N.uasset" 158
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Leather/T_ML_FineLeather01.uasset" 159
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Leather/ML_ThinLeather01_Colored.uasset" 160
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 161
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_hardmetal2_D.uasset" 162
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_ML_Aluminum_01_N.uasset" 163
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/ML_LowContrastHardMetal.uasset" 164
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/M_RubberHose_Simple.uasset" 165
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_2_N.uasset" 166
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_LowContrast.uasset" 167
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/ML_Rubber_LowContrast.uasset" 168
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK01.uasset" 169
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK02.uasset" 170
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK03.uasset" 171
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_UpperBody_Decals.uasset" 172
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_upperbody_skin00_N.uasset" 173
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Materials/M_Belica_UpperBody.uasset" 174
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_RGB.uasset" 175
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ParagonLtBelica/Characters/Heroes/Belica/Materials/M_Belica_LowerBody_Inst.uasset" 176
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Belica_Arms_PhysicsAsset.uasset" 177
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/BelicaArms/Belica_Arms.uasset" 178
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 179
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Movement_Proposition.uasset" 180
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/MainMusic.uasset" 181
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/WeaponShot_att.uasset" 182
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire01.uasset" 183
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire02.uasset" 184
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire03.uasset" 185
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire04.uasset" 186
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire_Dist01.uasset" 187
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire_Dist02.uasset" 188
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire_Dist03.uasset" 189
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncherA_Fire_Dist04.uasset" 190
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncherA_Fire_Cue.uasset" 191
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_AssaultRifle_D.uasset" 192
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_AssaultRifle_Masks.uasset" 193
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_AssaultRifle_N.uasset" 194
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_AssaultRifleColor_M.uasset" 195
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_WeaponMaster_Em.uasset" 196
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_AssaultRifle_Inst.uasset" 197
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_AssaultRifle_PhysicsAsset.uasset" 198
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_AssaultRifle_Skeleton.uasset" 199
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_AssaultRifle.uasset" 200
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_GrenadeLauncher_D.uasset" 201
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_GrenadeLauncher_Masks.uasset" 202
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_GrenadeLauncher_N.uasset" 203
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_GrenadeLauncherColor_M.uasset" 204
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_GrenadeLauncher_Inst.uasset" 205
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_GrenadeLauncher_PhysicsAsset.uasset" 206
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_GrenadeLauncher_Skeleton.uasset" 207
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_GrenadeLauncher.uasset" 208
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 209
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/blueprints/BP_button.uasset" 210
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/blueprints/BP_FOG.uasset" 211
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 212
+"../../../Engine/Content/BasicShapes/Cube.uasset" 213
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/blueprints/BP_rock.uasset" 214
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/meshes/8ckF1.uasset" 215
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 216
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/materials/m_acid.uasset" 217
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/textures/n_floor.uasset" 218
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/textures/t_floor.uasset" 219
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/materials/m_floor.uasset" 220
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/materials/m_water.uasset" 221
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/meshes/phong2.uasset" 222
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/meshes/SM_Floor.uasset" 223
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/meshes/Material.uasset" 224
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/meshes/weapon_dummy.uasset" 225
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 226
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 227
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 228
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 229
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 230
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 231
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 232
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 233
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 234
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 235
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 236
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 237
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 238
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 239
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 240
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 241
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 242
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 243
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 244
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 245
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 246
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 247
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 248
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 249
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 250
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 251
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 252
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 253
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 254
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 255
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 256
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 257
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 258
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 259
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 260
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 261
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 262
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 263
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/materials/m_door.uasset" 264
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/n_floor.uasset" 265
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_floor.uasset" 266
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/materials/m_floor.uasset" 267
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/n_panel.uasset" 268
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_panel.uasset" 269
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/materials/m_panel.uasset" 270
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/n_door.uasset" 271
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Textures/Barrel_Albedo.uasset" 272
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Textures/Barrel_AO.uasset" 273
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Textures/Barrel_Mettalic.uasset" 274
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Textures/Barrel_Normals.uasset" 275
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Textures/Barrel_Roughness.uasset" 276
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Materials/BarrelMat.uasset" 277
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 278
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Generic_Scrap/Barrel/Meshes/barrel.uasset" 279
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_C_Dark_Inst.uasset" 280
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_D_Dark_Inst.uasset" 281
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_I_Dark.uasset" 282
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_Explosion_Dark.uasset" 283
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Explosion01.uasset" 284
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Explosion02.uasset" 285
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Explosion03.uasset" 286
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Explosion04.uasset" 287
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Explosion05.uasset" 288
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Explosion_Cue.uasset" 289
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/ExplosiveBox.uasset" 290
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/BarrelSpawn.uasset" 291
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/StartBarrelsBP.uasset" 292
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 293
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Geometry/Meshes/TemplateFloor.uasset" 294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 296
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 300
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 302
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Metal_CyberCube/CyberWall_emissive.uasset" 303
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Textures/T_Baseline_bc.uasset" 304
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Textures/T_Baseline_n.uasset" 305
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/MasterMaterials/M_GT_Basic.uasset" 306
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_basecolor.uasset" 307
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_height.uasset" 308
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_mrao.uasset" 309
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Metal_sciFiCurveyWall/T_MetalSciFiCurveWall_normal.uasset" 310
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/M_Metal_sciFiCurveyWall_Inst.uasset" 311
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Tile_ClassicSquare/ClassicSquareTiles_basecolor.uasset" 312
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Tile_ClassicSquare/ClassicSquareTiles_basecolor_Mat.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Wind.uasset" 315
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/AcaciaBarck_n.uasset" 316
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/TEX_0.uasset" 317
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/MasterMaterials/MM_AcaciaBark.uasset" 318
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/M_AcaciaBark_Inst.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 320
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 321
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_01_billboard.uasset" 322
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_01_billboard_N.uasset" 323
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/MasterMaterials/M_FoliageBillBoard.uasset" 324
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_04_billboard.uasset" 325
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_04_billboard_N.uasset" 326
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia04_bollboard.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 328
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 329
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_leaf.uasset" 330
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_leaf_normal.uasset" 331
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/MasterMaterials/TreesLeafesMaster.uasset" 332
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_AcaciaLeafes.uasset" 333
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_04_LOD0.uasset" 334
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_05_billboard.uasset" 335
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_05_billboard_N.uasset" 336
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia05_bollboard.uasset" 337
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_05_LOD0.uasset" 338
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_02_billboard.uasset" 339
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_02_billboard_N.uasset" 340
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia_b_02_bollboard.uasset" 341
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_b_02_LOD0.uasset" 342
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_03_billboard.uasset" 343
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_03_billboard_N.uasset" 344
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia_b_03_bollboard.uasset" 345
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_b_03.uasset" 346
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_04_billboard.uasset" 347
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_04_billboard_N.uasset" 348
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia_b_04_bollboard.uasset" 349
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_b_04.uasset" 350
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_05_billboard.uasset" 351
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_05_billboard_N.uasset" 352
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia_b_05_bollboard.uasset" 353
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_b_05.uasset" 354
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/billboard.uasset" 355
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/TreeN.uasset" 356
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_01_billboard.uasset" 357
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_01_billboard_n.uasset" 358
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_BambooBillboard_01.uasset" 359
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_02_billboard.uasset" 360
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_02_billboard_n.uasset" 361
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_BambooBillboard_02.uasset" 362
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_03_billboard.uasset" 363
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_03_billboard_n.uasset" 364
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_BambooBillboard_03.uasset" 365
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_04_billboard.uasset" 366
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_04_billboard_n.uasset" 367
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_BambooBillboard_04.uasset" 368
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_05_billboard.uasset" 369
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_05_billboard_n.uasset" 370
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_BambooBillboard_05.uasset" 371
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_leaf.uasset" 372
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/bamboo_leaf_n.uasset" 373
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_Bamboo_leafes.uasset" 374
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/plant03.uasset" 375
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/textures/plant03_n.uasset" 376
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/Materials/MI_bambooBark.uasset" 377
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_03_billboard.uasset" 378
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_03_billboard_n.uasset" 379
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_bannanaPlant_billboard03.uasset" 380
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bark08.uasset" 381
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bark08_n.uasset" 382
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_BannanaPlantBark.uasset" 383
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/banana.uasset" 384
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/banana_n.uasset" 385
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_BannanaPlantLeafes.uasset" 386
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/ST_Meshes/bamboo_03.uasset" 387
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_04_billboard.uasset" 388
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_04_billboard_n.uasset" 389
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_bannanaPlant_billboard04.uasset" 390
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/ST_Meshes/bamboo_04.uasset" 391
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_05_billboard.uasset" 392
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_05_billboard_n.uasset" 393
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_bannanaPlant_billboard05.uasset" 394
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/ST_Meshes/bamboo_05.uasset" 395
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_01_billboard.uasset" 396
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_01_billboard_n.uasset" 397
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_bannanaPlant_billboard01.uasset" 398
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/st_Mehes/bananaPlant_01.uasset" 399
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_02_billboard.uasset" 400
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/bananaPlant_02_billboard_n.uasset" 401
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/Materials/MI_bannanaPlant_billboard02.uasset" 402
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/st_Mehes/bananaPlant_02.uasset" 403
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/st_Mehes/bananaPlant_03.uasset" 404
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/st_Mehes/bananaPlant_04.uasset" 405
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/st_Mehes/bananaPlant_05.uasset" 406
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/BananaPlant/textures/banana_sss.uasset" 407
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/bark01.uasset" 408
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/bark01_n.uasset" 409
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beechBark.uasset" 410
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_01_Billboard.uasset" 411
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_01_Billboard_n.uasset" 412
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_01.uasset" 413
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_leaf.uasset" 414
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_leaf_n.uasset" 415
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchLeafes.uasset" 416
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_01.uasset" 417
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_02_Billboard.uasset" 418
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_02_Billboard_n.uasset" 419
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_02.uasset" 420
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_02.uasset" 421
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_03_Billboard.uasset" 422
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_03_Billboard_n.uasset" 423
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_03.uasset" 424
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_03.uasset" 425
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_04_Billboard.uasset" 426
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_04_Billboard_n.uasset" 427
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_04.uasset" 428
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_04.uasset" 429
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_01_Billboard_n.uasset" 430
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b__01_Billboard.uasset" 431
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_01b.uasset" 432
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_b_01.uasset" 433
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_02_Billboard_n.uasset" 434
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b__02_Billboard.uasset" 435
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_02b.uasset" 436
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_b_02.uasset" 437
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_03_Billboard_n.uasset" 438
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b__03_Billboard.uasset" 439
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_03b.uasset" 440
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_b_03.uasset" 441
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_04_billboard.uasset" 442
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_04_billboard_n.uasset" 443
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_04.uasset" 444
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_01_billboard.uasset" 445
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_01_billboard_n.uasset" 446
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_01.uasset" 447
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/bark04.uasset" 448
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/bark04_n.uasset" 449
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_BirchBarck.uasset" 450
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_leaf.uasset" 451
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_leaf_n.uasset" 452
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_BirchLeafes.uasset" 453
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_01.uasset" 454
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_02_billboard.uasset" 455
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_02_billboard_n.uasset" 456
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_02.uasset" 457
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_02.uasset" 458
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_03_billboard.uasset" 459
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_03_billboard_n.uasset" 460
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_03.uasset" 461
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_03.uasset" 462
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_01_billboard.uasset" 463
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_01_billboard_n.uasset" 464
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_01b.uasset" 465
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_04.uasset" 466
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_05_billboard.uasset" 467
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_05_billboard_n.uasset" 468
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_05.uasset" 469
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_05.uasset" 470
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_b_01.uasset" 471
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_02_billboard.uasset" 472
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_02_billboard_n.uasset" 473
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_02b.uasset" 474
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_b_02.uasset" 475
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_03_billboard.uasset" 476
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_03_billboard_n.uasset" 477
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_03b.uasset" 478
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_b_03.uasset" 479
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_05_billboard.uasset" 480
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_05_billboard_n.uasset" 481
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_05b.uasset" 482
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_b_05.uasset" 483
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_01_billboard.uasset" 484
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_01_billboard_n.uasset" 485
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalm_billboard_01.uasset" 486
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/palm02.uasset" 487
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/palm02_n.uasset" 488
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalmBark.uasset" 489
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconut_palm_leaf.uasset" 490
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconut_palm_leaf_n.uasset" 491
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalmLeafes.uasset" 492
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/st_meshes/coconutPalm_01.uasset" 493
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_02_billboard.uasset" 494
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_02_billboard_n.uasset" 495
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalm_billboard_02.uasset" 496
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/st_meshes/coconutPalm_02.uasset" 497
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_03_billboard.uasset" 498
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_03_billboard_n.uasset" 499
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalm_billboard_03.uasset" 500
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/st_meshes/coconutPalm_03.uasset" 501
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_04_billboard.uasset" 502
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_04_billboard_n.uasset" 503
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalm_billboard_04.uasset" 504
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/st_meshes/coconutPalm_04.uasset" 505
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_05_billboard.uasset" 506
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/terxtures/coconutPalm_05_billboard_n.uasset" 507
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/Materials/MI_CoconutPalm_billboard_05.uasset" 508
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CoconutPalm/st_meshes/coconutPalm_05.uasset" 509
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_01_billboard.uasset" 510
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_01_billboard_n.uasset" 511
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalm_billboard_01.uasset" 512
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/palm01.uasset" 513
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/Palm01_n.uasset" 514
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalmBark.uasset" 515
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curly_palm_leaf.uasset" 516
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curly_palm_leaf_n.uasset" 517
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalmLeafes.uasset" 518
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/st_Meshes/curlyPalm_01.uasset" 519
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_02_billboard.uasset" 520
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_02_billboard_n.uasset" 521
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalm_billboard_02.uasset" 522
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/st_Meshes/curlyPalm_02.uasset" 523
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_03_billboard.uasset" 524
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_03_billboard_n.uasset" 525
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalm_billboard_03.uasset" 526
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/st_Meshes/curlyPalm_03.uasset" 527
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_04_billboard.uasset" 528
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_04_billboard_n.uasset" 529
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalm_billboard_04.uasset" 530
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/st_Meshes/curlyPalm_04.uasset" 531
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_05_billboard.uasset" 532
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Textures/curlyPalm_05_billboard_n.uasset" 533
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/Materials/MI_CurlyPalm_billboard_05.uasset" 534
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/CurlyPalm/st_Meshes/curlyPalm_05.uasset" 535
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_A_Inst.uasset" 536
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_GlowSphere_01.uasset" 537
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_GlowSphere_02.uasset" 538
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_AssaultRifle_MuzzleFlashes_01.uasset" 539
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_AssaultRifle_MuzzleFlash_4x1.uasset" 540
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_AssualtRifle_Core_01.uasset" 541
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_DistortionCrystals_01.uasset" 542
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_DistortionCrystals_Mask_01.uasset" 543
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_CrystalRefraction_01.uasset" 544
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_GlowSphere_01.uasset" 545
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Pop_01.uasset" 546
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_B_Light.uasset" 547
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_C_Light.uasset" 548
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Pistol_Streaks_01.uasset" 549
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Pistol_Streaks_01.uasset" 550
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Sparks_02.uasset" 551
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Sparks_02.uasset" 552
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Meshes/St_AssualtRifle_Core_01.uasset" 553
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Vector_Fields/FGA_Turbulent_01.uasset" 554
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_AssaultRifle_MuzzleFlash_Light.uasset" 555
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_F_Light.uasset" 556
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_AssaultRifle_Tracer_Light.uasset" 557
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_E_Light.uasset" 558
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_MuzzleFlash_Light.uasset" 559
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Smoke_Inst_A.uasset" 560
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_Trail_Dark.uasset" 561
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_Trail_Light.uasset" 562
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Large_Dark.uasset" 563
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_G_Light.uasset" 564
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Large_Light.uasset" 565
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Medium_Dark.uasset" 566
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Medium_Light.uasset" 567
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Small_Dark.uasset" 568
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Metal_Small_Light.uasset" 569
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Rock_Normal_01.uasset" 570
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_RockMesh_01.uasset" 571
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Meshes/St_Rock_01.uasset" 572
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Large_Dark.uasset" 573
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Large_Light.uasset" 574
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Medium_Dark.uasset" 575
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Medium_Light.uasset" 576
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Stone_Small_Light.uasset" 577
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_WoodChips_8x1_01.uasset" 578
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_WoodChips_8x1_Normal_01.uasset" 579
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Woodchips_8x1_01.uasset" 580
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Large_Dark.uasset" 581
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Large_Light.uasset" 582
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Medium_Dark.uasset" 583
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Medium_Light.uasset" 584
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Small_Dark.uasset" 585
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Impact_Wood_Small_Light.uasset" 586
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Knife_RibbonTrail_01.uasset" 587
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Knife_RibbonTrail_Norm_01.uasset" 588
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_NormalNoise_01.uasset" 589
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Knife_RibbonTrail_01.uasset" 590
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Knife_RibbonTrail_Dark.uasset" 591
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Knife_RibbonTrail_Light.uasset" 592
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Pistol_MuzzleFlashes_4x1_A.uasset" 593
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Pistol_MuzzleFlash_4x1_A.uasset" 594
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_A_Light.uasset" 595
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Pistol_MuzzleFlash_Light.uasset" 596
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Meshes/St_Tracer_A.uasset" 597
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Pistol_Tracer_Dark.uasset" 598
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Pistol_Tracer_Light.uasset" 599
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_ShockwaveGlow_01.uasset" 600
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Shockwave_01.uasset" 601
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Meshes/St_Shockwave_01.uasset" 602
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_Explosion_Dark.uasset" 603
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_Explosion_Light.uasset" 604
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_MuzzleFlash_Front_Light.uasset" 605
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_MuzzleFlash_Rear_Light.uasset" 606
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_B_Dark_Inst.uasset" 607
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_Trail_Dark.uasset" 608
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Exp_B_Light_Inst.uasset" 609
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_Trail_Light.uasset" 610
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Ember_01.uasset" 611
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_D_light.uasset" 612
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Shotgun_MuzzleFlash_Light.uasset" 613
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Tracer_B.uasset" 614
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Shotgun_Tracer_Dark.uasset" 615
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Shotgun_Tracer_Light.uasset" 616
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_SniperRifle_MuzzleFlash_Light.uasset" 617
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_SniperRifle_Tracer_Dark.uasset" 618
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_SniperRifle_Tracer_Light.uasset" 619
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Explosion_Macro_01.uasset" 620
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Textures/T_Spark_01.uasset" 621
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_AssaultRifle_Pickup.uasset" 622
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_GrenadeLauncher_Pickup.uasset" 623
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_pistol_Color_M.uasset" 624
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Pistol_D.uasset" 625
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_pistol_Masks.uasset" 626
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Pistol_N.uasset" 627
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_Pistol_Inst.uasset" 628
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_Pistol_Pickup.uasset" 629
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_RocketLauncher_D.uasset" 630
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_RocketLauncher_Masks.uasset" 631
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_RocketLauncher_N.uasset" 632
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_RocketLauncherColor_M.uasset" 633
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_RocketLauncher_Inst.uasset" 634
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_RocketLauncher_Pickup.uasset" 635
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Shotgun_ColorM.uasset" 636
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Shotgun_D.uasset" 637
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Shotgun_Masks.uasset" 638
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Shotgun_N.uasset" 639
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_Shotgun_Inst.uasset" 640
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_Shotgun_Pickup.uasset" 641
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_SniperRifle_D.uasset" 642
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_SniperRifle_Masks.uasset" 643
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_SniperRifle_N.uasset" 644
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_SniperRifleColor_M.uasset" 645
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_SniperRifle_Inst.uasset" 646
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Pickups/Darkness_SniperRifle_Pickup.uasset" 647
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/WeaponShotClose_Att.uasset" 648
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/WeaponHandling_att.uasset" 649
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_AmmoPickup.uasset" 650
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_AmmoPickup_Cue.uasset" 651
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/ProjectileImpact_att.uasset" 652
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce01.uasset" 653
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce02.uasset" 654
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce03.uasset" 655
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce04.uasset" 656
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce05.uasset" 657
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Bounce06.uasset" 658
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_Bounce_Cue.uasset" 659
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Lower.uasset" 660
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_Lower_Cue.uasset" 661
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Raise.uasset" 662
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_Raise_Cue.uasset" 663
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/KnifeA_Swing01.uasset" 664
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/KnifeA_Swing02.uasset" 665
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/KnifeA_Swing03.uasset" 666
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/KnifeA_Swing04.uasset" 667
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/KnifeA_Swing05.uasset" 668
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/KnifeA_Swing_Cue.uasset" 669
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactBody01.uasset" 670
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactBody02.uasset" 671
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactBody03.uasset" 672
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Knife_ImpactBody_Cue.uasset" 673
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactSurface01.uasset" 674
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactSurface02.uasset" 675
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_ImpactSurface03.uasset" 676
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Knife_ImpactSurface_Cue.uasset" 677
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_Lower.uasset" 678
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Knife_Lower_Cue.uasset" 679
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Wavs/Knife_Raise.uasset" 680
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Knife/Knife_Raise_Cue.uasset" 681
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_AmmoPickup01.uasset" 682
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_AmmoPickup02.uasset" 683
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_AmmoPickup_Cue.uasset" 684
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Lower.uasset" 685
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_Lower_Cue.uasset" 686
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Raise.uasset" 687
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_Raise_Cue.uasset" 688
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Whip01.uasset" 689
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Whip02.uasset" 690
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Whip03.uasset" 691
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Whip04.uasset" 692
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Whip05.uasset" 693
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_Whip_Cue.uasset" 694
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Reload01.uasset" 695
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Reload02.uasset" 696
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_Reload03.uasset" 697
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd01.uasset" 698
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd02.uasset" 699
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd03.uasset" 700
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd_Dist01.uasset" 701
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd_Dist02.uasset" 702
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireEnd_Dist03.uasset" 703
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/RifleA_FireEnd_Cue.uasset" 704
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop01.uasset" 705
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop02.uasset" 706
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop03.uasset" 707
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop_Dist01.uasset" 708
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop_Dist02.uasset" 709
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_FireLoop_Dist03.uasset" 710
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/RifleA_FireLoop_Cue.uasset" 711
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_AmmoPickup.uasset" 712
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_AmmoPickup_Cue.uasset" 713
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody01.uasset" 714
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody02.uasset" 715
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody03.uasset" 716
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody04.uasset" 717
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody05.uasset" 718
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactBody06.uasset" 719
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_ImpactBody_Cue.uasset" 720
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface01.uasset" 721
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface02.uasset" 722
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface03.uasset" 723
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface04.uasset" 724
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface05.uasset" 725
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_ImpactSurface06.uasset" 726
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_ImpactSurface_Cue.uasset" 727
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Lower.uasset" 728
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_Lower_Cue.uasset" 729
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Raise.uasset" 730
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_Raise_Cue.uasset" 731
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Whip01.uasset" 732
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Whip02.uasset" 733
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Whip03.uasset" 734
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Whip04.uasset" 735
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Whip05.uasset" 736
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_Whip_Cue.uasset" 737
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_AmmoPickup.uasset" 738
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_AmmoPickup_Cue.uasset" 739
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Attenuation/RocketLoop_att.uasset" 740
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_InAirLoop.uasset" 741
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_InAirLoop_Cue.uasset" 742
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Lower.uasset" 743
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Lower_Cue.uasset" 744
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Raise.uasset" 745
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Raise_Cue.uasset" 746
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_ReloadDetach_Cue.uasset" 747
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload01.uasset" 748
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload02.uasset" 749
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload03.uasset" 750
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Reload_Cue.uasset" 751
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_AmmoPickup.uasset" 752
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_AmmoPickup_Cue.uasset" 753
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactBody01.uasset" 754
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactBody02.uasset" 755
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactBody03.uasset" 756
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_ImpactBody_Cue.uasset" 757
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactSurface01.uasset" 758
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactSurface02.uasset" 759
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactSurface03.uasset" 760
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_ImpactSurface04.uasset" 761
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_ImpactSurface_Cue.uasset" 762
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_Lower.uasset" 763
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_Lower_Cue.uasset" 764
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_Raise.uasset" 765
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_Raise_Cue.uasset" 766
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_AmmoPickup.uasset" 767
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_AmmoPickup_Cue.uasset" 768
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactBody01.uasset" 769
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactBody02.uasset" 770
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactBody03.uasset" 771
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactBody04.uasset" 772
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_ImpactBody_Cue.uasset" 773
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactSurface01.uasset" 774
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactSurface02.uasset" 775
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactSurface03.uasset" 776
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ImpactSurface04.uasset" 777
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_ImpactSurface_Cue.uasset" 778
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_Lower.uasset" 779
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_Lower_Cue.uasset" 780
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_Raise.uasset" 781
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_Raise_Cue.uasset" 782
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ZoomIn.uasset" 783
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_ZoomIn_Cue.uasset" 784
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_ZoomOut.uasset" 785
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_ZoomOut_Cue.uasset" 786
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_C_Dark.uasset" 787
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_E_Dark.uasset" 788
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Grenade_MuzzleFlash_Dark.uasset" 789
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_GrenadeLauncher_W.uasset" 790
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_A_Dark.uasset" 791
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Pistol_MuzzleFlash_Dark.uasset" 792
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire01.uasset" 793
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire02.uasset" 794
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire03.uasset" 795
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire04.uasset" 796
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire05.uasset" 797
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire06.uasset" 798
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist01.uasset" 799
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist02.uasset" 800
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist03.uasset" 801
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist04.uasset" 802
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist05.uasset" 803
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/PistolA_Fire_Dist06.uasset" 804
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.uasset" 805
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Pistol_Skeleton.uasset" 806
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_Pistol_W.uasset" 807
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_B_Dark.uasset" 808
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Materials/M_Plasma_Inst_D_Dark.uasset" 809
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_AssaultRifle_MuzzleFlash_Dark.uasset" 810
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire01.uasset" 811
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire02.uasset" 812
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire03.uasset" 813
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire04.uasset" 814
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire05.uasset" 815
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire06.uasset" 816
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist01.uasset" 817
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist02.uasset" 818
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist03.uasset" 819
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist04.uasset" 820
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist05.uasset" 821
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/RifleA_Fire_Dist06.uasset" 822
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/RifleA_Fire_Cue.uasset" 823
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_Rifle_W.uasset" 824
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_MuzzleFlash_Front_Dark.uasset" 825
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_RocketLauncher_MuzzleFlash_Rear_Dark.uasset" 826
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire01.uasset" 827
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire02.uasset" 828
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire03.uasset" 829
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire04.uasset" 830
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire_Dist01.uasset" 831
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire_Dist02.uasset" 832
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire_Dist03.uasset" 833
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire_Dist04.uasset" 834
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncherA_Fire_Cue.uasset" 835
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_RocketLauncher_Skeleton.uasset" 836
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_RocketLauncher_W.uasset" 837
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_Shotgun_MuzzleFlash_Dark.uasset" 838
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_Reload01.uasset" 839
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_Reload02.uasset" 840
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/Shotgun_Reload03.uasset" 841
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Shotgun_Reload_Cue.uasset" 842
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire01.uasset" 843
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire02.uasset" 844
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire03.uasset" 845
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire04.uasset" 846
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire_Dist01.uasset" 847
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire_Dist02.uasset" 848
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire_Dist03.uasset" 849
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/Wavs/ShotgunA_Fire_Dist04.uasset" 850
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Shotgun/ShotgunA_Fire_Cue.uasset" 851
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Shotgun_Skeleton.uasset" 852
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_Shotgun_W.uasset" 853
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/FX/Particles/P_SniperRifle_MuzzleFlash_Dark.uasset" 854
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire01.uasset" 855
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire02.uasset" 856
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire03.uasset" 857
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire04.uasset" 858
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire_Dist01.uasset" 859
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire_Dist02.uasset" 860
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire_Dist03.uasset" 861
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifleA_Fire_Dist04.uasset" 862
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifleA_Fire_Cue.uasset" 863
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_SniperRifle_Skeleton.uasset" 864
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Fire_SniperRifle_W.uasset" 865
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Reload01.uasset" 866
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Reload02.uasset" 867
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Wavs/Rifle_Reload03.uasset" 868
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_Reload_Cue.uasset" 869
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Rifle/Rifle_ReloadInsert_Cue.uasset" 870
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Prone_Reload_Rifle_W.uasset" 871
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_Reload01.uasset" 872
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_Reload02.uasset" 873
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/Wavs/SniperRifle_Reload03.uasset" 874
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_Reload_Cue.uasset" 875
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/SniperRifle/SniperRifle_ReloadInsert_Cue.uasset" 876
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Prone_SniperRifle_Reload_W.uasset" 877
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Reload01.uasset" 878
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Reload02.uasset" 879
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/Wavs/GrenadeLauncher_Reload03.uasset" 880
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/GrenadeLauncher/GrenadeLauncher_Reload_Cue.uasset" 881
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_GrenadeLauncher_W.uasset" 882
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagEject01.uasset" 883
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagEject02.uasset" 884
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagEject03.uasset" 885
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_ReloadEject_Cue.uasset" 886
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagInsert01.uasset" 887
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagInsert02.uasset" 888
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadMagInsert03.uasset" 889
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadSlideRack01.uasset" 890
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadSlideRack02.uasset" 891
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Wavs/Pistol_ReloadSlideRack03.uasset" 892
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/Pistol/Pistol_ReloadInsert_Cue.uasset" 893
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_Pistol_W.uasset" 894
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_Rifle_Hip_W.uasset" 895
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_Rifle_Ironsights_w.uasset" 896
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload_Detach.uasset" 897
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Reload_Detach_Cue.uasset" 898
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload_Insert01.uasset" 899
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload_Insert02.uasset" 900
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/Wavs/RocketLauncher_Reload_Insert03.uasset" 901
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Sound/RocketLauncher/RocketLauncher_Reload_Insert_Cue.uasset" 902
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_RocketLauncher_W.uasset" 903
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_Shotgun_W.uasset" 904
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_SniperRifle_Hips_W.uasset" 905
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Anims/Reload_SniperRifle_Ironsights_W.uasset" 906
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_AssaultRifleVer2_Inst.uasset" 907
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_GrenadeLauncherVer2_Inst.uasset" 908
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Knife_D.uasset" 909
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Knife_M.uasset" 910
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_Knife_N.uasset" 911
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Textures/T_Darkness_KnifeColor_M.uasset" 912
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_KnifeVer2_Inst.uasset" 913
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_PistolVer2_Inst.uasset" 914
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_RocketLauncherVer2_Inst.uasset" 915
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_ShotgunVer2_Inst.uasset" 916
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_SniperRifleVer2_Inst.uasset" 917
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Pillar_50x500.uasset" 918
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_400x300.uasset" 919
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_400x400.uasset" 920
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_500x500.uasset" 921
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 922
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 923
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Collapse01.uasset" 924
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Collapse02.uasset" 925
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Explosion01.uasset" 926
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Explosion02.uasset" 927
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Fire01.uasset" 928
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Fire_Sparks01.uasset" 929
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Light01.uasset" 930
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Light01_Cue.uasset" 931
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Light02.uasset" 932
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Light02_Cue.uasset" 933
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Smoke01.uasset" 934
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Birds01.uasset" 935
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Music01.uasset" 936
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Wind05.uasset" 937
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Wind06.uasset" 938
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Steam01.uasset" 939
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Explosion_Cue.uasset" 940
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Burst_M.uasset" 941
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Burst.uasset" 942
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 943
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 944
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 945
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 946
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 947
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 948
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 949
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 950
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Explosion.uasset" 951
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 952
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 953
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 954
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Bush_D.uasset" 955
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Bush_N.uasset" 956
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Bush.uasset" 957
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Bush.uasset" 958
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Chair_M.uasset" 959
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Chair_N.uasset" 960
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Chair.uasset" 961
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Couch.uasset" 962
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Glass.uasset" 963
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Door_M.uasset" 964
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Door_N.uasset" 965
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Door.uasset" 966
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Door.uasset" 967
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 968
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 969
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 970
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Rock.uasset" 971
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Shelf_M.uasset" 972
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Shelf_N.uasset" 973
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Shelf.uasset" 974
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Shelf.uasset" 975
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Basic_Floor.uasset" 976
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Stairs.uasset" 977
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Cone.uasset" 978
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 979
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 980
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Pipe.uasset" 981
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 982
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 983
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Plane.uasset" 984
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Torus.uasset" 985
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Trim.uasset" 986
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 987
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 988
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 989
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Tube.uasset" 990
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 991
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 992
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 993
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 994
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 995
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 996
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/exit.uasset" 997
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/newGame.uasset" 998
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/title_screen.uasset" 999
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 1000
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 1001
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Gradient.uasset" 1002
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Greyscale.uasset" 1003
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/GradientMap_Multi.uasset" 1004
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 1005
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PassThrough.uasset" 1006
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 1007
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 1008
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 1009
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 1010
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1011
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat4Values.uasset" 1012
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1013
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Normals/UnpackNormalFromFloat.uasset" 1014
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 1015
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBox.uasset" 1016
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/DemoBox_Normals.uasset" 1017
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/MAXScripts/MS_VertexAnimationTools_MorphTargets.uasset" 1018
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 1019
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/MPC_Globals.uasset" 1020
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_SpecularHighlights.uasset" 1021
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/MF_FakeSpecular.uasset" 1022
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/MF_FixedDepth.uasset" 1023
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/MF_RiverWavesWPO.uasset" 1024
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/MF_RiverDepth_UVs.uasset" 1025
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Lake_Waves01.uasset" 1026
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Lake_Waves01_Normals.uasset" 1027
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Lake_Waves02.uasset" 1028
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Lake_Waves02_Normals.uasset" 1029
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Noises.uasset" 1030
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Water_EdgeNormals.uasset" 1031
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Water_Normal.uasset" 1032
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Water_Normal_Large.uasset" 1033
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Water_Normal_Subtle.uasset" 1034
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/M_Lake.uasset" 1035
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Textures/T_Cubemap.uasset" 1036
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/M_Water_Clean_Cheaper.uasset" 1037
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 1038
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1039
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1040
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1041
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1042
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1043
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1044
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1045
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 1046
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 1047
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1048
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1049
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 1050
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 1051
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 1052
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 1053
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 1054
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 1055
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 1056
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 1057
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 1058
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 1059
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 1060
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 1061
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 1062
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 1063
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 1064
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 1065
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 1066
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 1067
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 1068
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 1069
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 1070
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1071
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1072
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1073
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 1074
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 1075
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1076
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1077
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1078
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1079
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1080
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1081
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1082
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1083
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1084
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 1085
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1086
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1087
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1088
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1089
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1090
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1091
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1092
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 1093
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 1094
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 1095
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 1096
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 1097
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 1098
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 1099
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1100
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1101
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 1102
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 1103
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 1104
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 1105
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 1106
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1107
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1108
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 1109
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 1110
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 1111
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 1112
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1113
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1114
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1115
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1116
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1117
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1119
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1120
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1121
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1122
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1123
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 1124
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 1125
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 1126
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 1127
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 1128
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 1129
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 1130
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1131
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1132
+"../../../Engine/Content/EngineResources/Black.uasset" 1133
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1134
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1135
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 1136
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 1137
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1138
+"../../../Engine/Content/EngineSounds/Master.uasset" 1139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 1140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 1141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 1142
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 1143
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1144
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1145
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1146
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1147
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1148
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1149
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1150
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1151
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1152
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1153
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1154
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1155
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1156
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1161
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1162
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1163
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1164
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1165
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1166
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1167
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1168
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1169
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1170
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1171
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1172
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1173
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1174
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1175
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1176
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1177
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1178
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1179
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1180
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1181
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1182
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1183
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1184
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1185
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1186
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1187
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1188
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1189
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1190
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1191
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1192
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1193
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1194
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1195
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1196
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1197
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1198
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1199
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1200
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1201
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1202
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1203
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1204
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1205
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1206
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1207
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1208
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1209
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/lambert2.uasset" 1210
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Door.uasset" 1211
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/assetss/blueprints/BP_Door.uasset" 1212
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1213
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1214
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1217
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Particles/NewParticleMaterial.uasset" 1218
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Particles/NewParticleSystem.uasset" 1219
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/s_wall1.uasset" 1220
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SteelWallMaterial.uasset" 1221
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/s_switch_unlocked.uasset" 1222
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TerminalMaterial.uasset" 1223
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/Terminal.uasset" 1224
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/TerminalBP.uasset" 1225
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Blueprints/TerminalBridgeBP.uasset" 1226
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_basecolor.uasset" 1227
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_height.uasset" 1228
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_mrao.uasset" 1229
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Rock_JaggedCaveWall/T_JaggedCaveWall_normal.uasset" 1230
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/M_Rock_HoneycombAsteroid_Inst.uasset" 1231
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/RockWall_StaticMesh.uasset" 1232
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/RockWall_StaticMesh_DM.uasset" 1233
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/grass_2_LayerInfo.uasset" 1234
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/grass_LayerInfo.uasset" 1235
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/rock_1_LayerInfo.uasset" 1236
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 1237
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_grass_1.uasset" 1238
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_grass_2.uasset" 1239
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/textures/t_rock_1.uasset" 1240
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/assets/materials/m_terrain.uasset" 1241
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/WaterMaterials/Materials/M_Water_Clean.uasset" 1242
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_height.uasset" 1243
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_mrao.uasset" 1244
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/Bitmaps/Tile_ClassicSquare/T_ClassicSquareTiles_normal.uasset" 1245
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GT_FREE18/Materials/M_Tile_ClassicSquare_Inst.uasset" 1246
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Fog/Fog.uasset" 1247
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Fog/LocalFogMaterial.uasset" 1248
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Fog/LocalFogMaterial_Inst.uasset" 1249
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPerson/Fog/LocalFogParticle.uasset" 1250
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/HudBP.uasset" 1251
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia01_bollboard.uasset" 1252
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_01.uasset" 1253
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_02_billboard.uasset" 1254
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_02_billboard_N.uasset" 1255
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia02_bollboard.uasset" 1256
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_02_LOD0.uasset" 1257
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_03_billboard.uasset" 1258
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_03_billboard_N.uasset" 1259
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia03_bollboard.uasset" 1260
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_03_LOD0.uasset" 1261
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_01_billboard.uasset" 1262
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Textures/acacia_b_01_billboard_N.uasset" 1263
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/Acacia_Mats/MI_Acacia_b_01_bollboard.uasset" 1264
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Acacia/ST_Meshes/Acacia_b_01_LOD0.uasset" 1265
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/ST_Meshes/bamboo_01.uasset" 1266
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Bamboo/ST_Meshes/bamboo_02.uasset" 1267
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_05_Billboard.uasset" 1268
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_05_Billboard_n.uasset" 1269
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_05.uasset" 1270
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_05.uasset" 1271
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_04_Billboard.uasset" 1272
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_04_Billboard_n.uasset" 1273
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_04b.uasset" 1274
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_b_04.uasset" 1275
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_05_Billboard.uasset" 1276
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/textures/beech_b_05_Billboard_n.uasset" 1277
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/Materials/MI_beerchbillboard_05b.uasset" 1278
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Beech/st_meshes/beech_b_05.uasset" 1279
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_04_billboard.uasset" 1280
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/textures/birch_b_04_billboard_n.uasset" 1281
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/materials/MI_Birch_billboard_04b.uasset" 1282
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/NatureAssets/Trees/Birch/st_meshes/Birch_b_04.uasset" 1283
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/ScoreScreen/EndGameWidget.uasset" 1284
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 1285
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/MainMenuSound__online-audio-converter_com_.uasset" 1286
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GameOver/GameOverWidget.uasset" 1287
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/Past_the_Edge.uasset" 1288
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/MainMenuMusic.uasset" 1289
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/GameOver/GameOverMap.umap" 1290
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 1291
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1292
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_AssaultRifle_Ammo.uasset" 1293
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_GrenadeLauncher_Ammo.uasset" 1294
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Materials/M_Knife_Inst.uasset" 1295
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Kinfe_PhysicsAsset.uasset" 1296
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Kinfe_Skeleton.uasset" 1297
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Knife.uasset" 1298
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Pistol_PhysicsAsset.uasset" 1299
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Pistol.uasset" 1300
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Pistol_Ammo.uasset" 1301
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_RocketLauncher_PhysicsAsset.uasset" 1302
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_RocketLauncher.uasset" 1303
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_RocketLauncher_Ammo.uasset" 1304
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Shotgun_PhysicsAsset.uasset" 1305
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Shotgun.uasset" 1306
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_Shotgun_Ammo.uasset" 1307
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_SniperRifle_PhysicsAsset.uasset" 1308
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_SniperRifle.uasset" 1309
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Weapons/Darkness_SniperRifle_Ammo.uasset" 1310
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/SciFiWeapDark/Overview.umap" 1311
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1312
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1313
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1314
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1315
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1316
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1317
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1318
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1319
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1320
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1321
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1322
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1323
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1324
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1325
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1326
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1327
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1328
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1329
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1330
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1331
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1332
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1333
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/Advanced_Lighting.umap" 1334
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1335
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1336
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1337
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1338
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1339
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1340
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1341
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Statue_M.uasset" 1342
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Statue_N.uasset" 1343
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1344
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Floor_400x400.uasset" 1345
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1346
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Chair.uasset" 1347
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Statue.uasset" 1348
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Statue.uasset" 1349
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_TableRound_M.uasset" 1350
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_TableRound_N.uasset" 1351
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1352
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_TableRound.uasset" 1353
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/Minimal_Default.umap" 1354
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Fire01_Cue.uasset" 1355
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1356
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1357
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1358
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Water_N.uasset" 1359
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1360
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1361
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Fire.uasset" 1362
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1363
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1364
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Smoke.uasset" 1365
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1366
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1367
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Spark_Core.uasset" 1368
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1369
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Sparks.uasset" 1370
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1371
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Steam01_Cue.uasset" 1372
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1373
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1374
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Lamp_M.uasset" 1375
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Lamp_N.uasset" 1376
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1377
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1378
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1379
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1380
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1381
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1383
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1384
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1385
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1386
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1387
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1388
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1389
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1390
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1391
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1392
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1393
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1394
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1395
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1396
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1397
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1398
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1399
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1400
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1401
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1402
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1403
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1404
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1405
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1406
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1407
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1408
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1409
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1410
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1411
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1412
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1413
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1414
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1415
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1416
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1417
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1418
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1419
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1420
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1421
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1422
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1423
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1424
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1425
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1426
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1427
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1428
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1429
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1430
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1431
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1432
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1433
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1434
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1435
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1436
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1437
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1438
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1439
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1440
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1441
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1442
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1443
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1444
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1445
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1446
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1447
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1448
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1449
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1450
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1451
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1452
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1453
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1454
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1455
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1456
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1457
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1458
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1459
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1460
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1461
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1462
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1463
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1464
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Water_Lake.uasset" 1465
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Water_M.uasset" 1466
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1467
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1468
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1469
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1470
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1472
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1473
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1474
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1475
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1476
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1477
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1478
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1479
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1480
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1481
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1482
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_400x200.uasset" 1483
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1484
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1485
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Collapse_Cue.uasset" 1486
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1487
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1488
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1489
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1490
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/MaterialSphere.uasset" 1491
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Frame_M.uasset" 1492
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Textures/T_Frame_N.uasset" 1493
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/Materials/M_Frame.uasset" 1494
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_CornerFrame.uasset" 1495
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_DoorFrame.uasset" 1496
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_GlassWindow.uasset" 1497
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_PillarFrame.uasset" 1498
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1499
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Props/SM_WindowFrame.uasset" 1500
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_Cube.uasset" 1501
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1502
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/StarterContent/Maps/StarterMap.umap" 1503
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/MainMenuPressed.uasset" 1504
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/TitleScreen.uasset" 1505
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/TitleScreenWidget.uasset" 1506
+"../../../../../../ProyectoFinal/ProyectoFinalVJ2 - R3/Content/TitleScreen/MainMenuLevelMap.umap" 1507
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1508
+"../../../Engine/Content/Maps/Entry.umap" 1509
